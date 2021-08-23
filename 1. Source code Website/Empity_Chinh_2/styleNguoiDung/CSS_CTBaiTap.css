@@ -1,0 +1,32 @@
+﻿.than{
+    border:2px solid#ff6a00;
+    padding:20px;
+    width:1300px;
+}
+table tr td {
+    padding: 10px;
+    border: 2px solid#ff6a00;
+}
+td {
+    font-size: 25px;
+}
+.yy{
+    
+}
+.b1{
+    color:darkgoldenrod;
+
+}
+.b2{
+    color:darkgreen;
+}
+i{
+    color:red;
+    font-weight:bold;
+}
+.phanxem {
+    
+    margin-top: -95px;
+    margin-left: 200px;
+   
+}

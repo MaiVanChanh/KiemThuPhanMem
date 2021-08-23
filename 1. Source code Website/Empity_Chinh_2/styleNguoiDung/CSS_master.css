@@ -1,0 +1,127 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+/*phần dropdown menu*/
+.nemutrong {
+    text-align: center;
+    margin-left: 130px;
+}
+.dropbtn {
+    color: #007bff;
+    padding: 16px;
+    font-size: 18px;
+    text-decoration: none;
+    border: none;
+
+    background-color: blanchedalmond;
+}
+
+.dropdown {
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+}
+b {
+    text-decoration: none;
+}
+.dropbtn a {
+    color: #007bff;
+    text-decoration: none;
+}
+.anhdangnhap{
+    width:40px;
+    height:40px;
+}
+.dropdown-content {
+    text-decoration: none;
+    display: none;
+    position: absolute;
+    background-color: blanchedalmond;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 100;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .dropdown-content a:hover {
+            text-decoration: none;
+            background-color: #ddd;
+            border-bottom: 3px solid#ff0000;
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    text-decoration: none;
+    background-color: rgba(0,0,0,0.2);
+ 
+}
+
+/*kết thúc dropdown menu*/
+a{
+    text-decoration:none;
+}
+/*phần header*/
+header {
+    background-color: blanchedalmond;
+    width: auto;
+    border: 1px solid#000000;
+}
+/*lo go the gym*/
+.logoTheGym {
+    height: 58px;
+    width: 120px;
+    margin-left: 30px;
+    position: absolute;
+}
+/*phần đăng nhập và đăng ký*/
+.phandangnhap {
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 10px;
+    width: 250px;
+    float: right;
+}
+.btndangnhap {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.dangxuat{
+    margin-top:10px;
+    margin-left:-70px;
+    position:absolute;
+}
+.tennDung{
+    margin-top:10px;
+    margin-left:-280px;
+    color:red;
+    position:absolute;
+}
+/*nhấp nháy*/
+.cfm {
+    color: #1c0969;
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    30% {
+        opacity: 0;
+    }
+}
+.btndangnhap b {
+    text-decoration: none;
+    
+}
+b {
+   
+    text-decoration: none;
+}

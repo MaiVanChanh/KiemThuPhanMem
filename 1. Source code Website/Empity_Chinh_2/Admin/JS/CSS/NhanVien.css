@@ -1,0 +1,29 @@
+﻿
+table tr td{
+	padding:5px 5px;
+}
+.txt{
+	border-radius:5px;
+	height:30px;
+	width:240px;
+}
+.btn2{
+	border-radius:5px;
+	width:80px;
+	height:30px;
+}
+.thu{
+	display: table;
+}
+.bang{
+	width: 90%;
+}
+.tbody{
+	width: 90%;
+}
+th{
+	text-align:center
+}
+.btn3{
+	width: 200px;
+}

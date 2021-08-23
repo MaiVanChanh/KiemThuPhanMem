@@ -1,0 +1,18 @@
+﻿
+section, aside {
+    display: table-cell;
+    vertical-align: top;
+}
+article {
+    
+    display: table-row;
+}
+section{
+    width:800px;
+}
+aside{
+    width:300px;
+}
+section table tr td{
+    padding: 5px 5px;
+}

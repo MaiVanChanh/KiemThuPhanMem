@@ -1,0 +1,70 @@
+﻿/*==Reset CSS==*/
+@charset "utf-8";
+/* CSS Document */
+
+/*==Style cơ bản cho website==*/
+. {
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+    .container1 {
+        height: 320px;
+        width: 1346px;
+        background-color: #CC6;
+    }
+
+    .row {
+        margin-left: 350px;
+        width: 600px;
+    }
+
+    .logo_chuyen {
+        text-align: center;
+        padding: 20px 0px;
+        margin-left: 240px;
+    }
+
+    .dgc {
+        text-align: center;
+        width: 240px;
+        margin-left: 31px;
+        background-color: #F93;
+        border: 2px solid #C60;
+    }
+
+    .dgc1 {
+        margin-top: -15px;
+        width: 450px;
+        background-color: #F93;
+        border: 2px solid #C60;
+    }
+
+    .lg_d {
+        margin-top: -270px;
+        margin-left: 40px;
+        height: 250px;
+        width: 277px;
+    }
+
+    .CS_TD {
+        margin-left: 230px;
+        text-align: center;
+    }
+
+    .nd {
+        text-align: center;
+    }
+
+    .bocongthuong {
+        float: right;
+        margin-top: -100px;
+        margin-right: 100px;
+    }
+
+    .cuoicung {
+        margin-left: 250px;
+        margin-top: -20px;
+    }

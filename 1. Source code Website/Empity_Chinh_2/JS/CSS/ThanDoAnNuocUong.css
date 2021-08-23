@@ -1,0 +1,41 @@
+﻿.than {
+    font-family: Comic Sans MS, cursive, sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display: table-row;
+}
+section, aside {
+    display: table-cell;
+    vertical-align: top;
+}
+
+article {
+    display: table-row;
+    border:1px solid#000000;
+}
+
+section  {
+    width: 900px;
+    padding:5px 10px;
+}
+.doan tr td{
+    padding: 10px 5px;
+}
+aside {
+    border: 1px solid#920d21;
+}
+.btnStye {
+    margin-top: 5px;
+    border-radius: 10px;
+    margin-right: 0px;
+    background-color: #F1D5D5;
+    border-color: #F1D5D5;
+    border:1px solid#920d21;
+}
+.mauChu {
+    background-color: #F1D5D5;
+    border: 1px solid#F1D5D5;
+}
+.ss{
+    padding: 5px 5px;
+}
+

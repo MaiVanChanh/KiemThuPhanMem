@@ -1,0 +1,226 @@
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\Empity_Chinh_2.dll.config
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\Empity_Chinh_2.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\Empity_Chinh_2.pdb
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\csc.exe
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\csc.exe.config
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\csc.rsp
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\csi.exe
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\csi.exe.config
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\csi.rsp
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.AppContext.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Console.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.IO.Compression.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Security.Claims.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.ValueTuple.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\vbc.exe
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\vbc.exe.config
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\vbc.rsp
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Data.v17.1.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Utils.v17.1.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Web.ASPxThemes.v17.1.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Web.v17.1.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.XtraEditors.v17.1.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Printing.v17.1.Core.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Office.v17.1.Core.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Data.v17.1.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Utils.v17.1.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Web.v17.1.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.XtraEditors.v17.1.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Printing.v17.1.Core.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Office.v17.1.Core.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.Web.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.Web.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.Web.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.Web.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\obj\Release\Empity_Chinh_2.csprojAssemblyReference.cache
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\obj\Release\Empity_Chinh_2.dll.licenses
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\obj\Release\Empity_Chinh_2.csproj.CoreCompileInputs.cache
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\obj\Release\Empity_Chinh_2.csproj.CopyComplete
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\obj\Release\Empity_Chinh_2.dll
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\obj\Release\Empity_Chinh_2.pdb
+C:\Users\hodie\OneDrive\Máy tính\Empity_Chinh_2\Empity_Chinh_2\bin\DevExpress.Web.Resources.v17.1.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\Empity_Chinh_2.dll.config
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\Empity_Chinh_2.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\Empity_Chinh_2.pdb
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\csc.exe
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\csc.exe.config
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\csc.rsp
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\csi.exe
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\csi.exe.config
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\csi.rsp
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.AppContext.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Collections.Immutable.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Console.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.IO.Compression.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.IO.FileSystem.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.IO.Pipes.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Security.AccessControl.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Security.Claims.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.ValueTuple.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Xml.XPath.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\vbc.exe
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\vbc.exe.config
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\vbc.rsp
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\VBCSCompiler.exe
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\roslyn\VBCSCompiler.exe.config
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Data.v17.1.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Printing.v17.1.Core.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.RichEdit.v17.1.Core.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Utils.v17.1.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Web.ASPxThemes.v17.1.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Web.Resources.v17.1.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Web.v17.1.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.XtraEditors.v17.1.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Pdf.v17.1.Core.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Office.v17.1.Core.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Sparkline.v17.1.Core.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Data.v17.1.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Printing.v17.1.Core.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.RichEdit.v17.1.Core.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Utils.v17.1.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Web.v17.1.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.XtraEditors.v17.1.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Pdf.v17.1.Core.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Office.v17.1.Core.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\DevExpress.Sparkline.v17.1.Core.xml
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.Data.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.Data.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.Data.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.Data.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.Utils.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.Utils.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.Utils.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.Utils.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.Web.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.Web.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.Web.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.Web.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\obj\Release\Empity_Chinh_2.csprojAssemblyReference.cache
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\obj\Release\Empity_Chinh_2.dll.licenses
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\obj\Release\Empity_Chinh_2.csproj.CoreCompileInputs.cache
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\obj\Release\Empity_Chinh_2.csproj.CopyComplete
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\obj\Release\Empity_Chinh_2.dll
+D:\HKI_Nam_3\NopBaoBaoCuoiKyLenGitHub\Empity_Chinh_2\obj\Release\Empity_Chinh_2.pdb

@@ -1,0 +1,62 @@
+﻿
+
+.than_gt {
+    width: 1300px;
+    margin: 0px auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+section {
+    width: 1250px;
+    padding: 20px;
+    
+}
+.cuoicung{
+    margin-top:20px;
+}
+.Tieu_de {
+    text-align: center;
+    color: indigo;
+    font-size: 30px;
+}
+
+.mau_TC {
+    color: crimson;
+    font-style: italic;
+    a
+}
+
+.Chan_TD {
+    text-align: center;
+    border: 2px solid#b6ff00;
+}
+
+.th_tin {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.anh_cachchu {
+    text-align: center;
+}
+/*phần dưới*/
+aside {
+    height: 600px;
+    width:1344px;
+    background-image: url(../image_nguoidung/GThieu/Gthieu2.png);
+    
+}
+h3{
+    padding:5px;
+    font-size:17px;
+    width: 600px;
+}
+
+.bentrai {
+    width:700px;
+    color:#ffffff;
+    
+    margin-left: 50px;
+    padding-top:150px;
+   
+}

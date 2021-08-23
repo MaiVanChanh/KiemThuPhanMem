@@ -1,0 +1,19 @@
+﻿table tr td{
+    padding: 10px 10px;
+}
+.txt{
+    border-radius:5px;
+}
+.btn2 {
+    border-radius: 5px;
+    background-color: #F1D5D5;
+}
+th {
+	text-align: center
+}
+.btn3 {
+	border-radius: 5px;
+	background-color: #F1D5D5;
+	width:150px;
+
+}

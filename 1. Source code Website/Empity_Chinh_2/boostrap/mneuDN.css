@@ -1,0 +1,102 @@
+header {
+    font-size: 15px;
+    width: 1346px;
+    clear: both;
+    height: 70px;
+    z-index: 1000;
+    border: 1px double #360;
+}
+header>div#menu
+{
+    /*chu menu nu can phai*/
+    
+    padding:20px 20px;
+    margin-left:200px;
+}
+body {
+    font-weight: bold;
+    color: #333;
+}
+
+#p tc {
+    width: 100;
+}
+/*==Style cho menu===*/
+#menu ul {
+    /*vi tri chu trong nav*/
+    height: 30px;
+   text-align:center;    
+       padding:0px 0px;    
+     line-height: !important;
+    list-style-type: none;
+    
+}
+
+#menu li {
+
+    color: #f1f1f1;
+    display: inline-block;
+    width: 190px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -5px;
+    text-align:center;
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+#menu a {
+    text-decoration: none;
+    display: block;
+}
+
+    #menu a:hover {
+        background: #6F6;
+        color: #903;
+    }
+/*chinhr độ rộng sub menu*/
+.sub-menu > li {
+    display: none;
+    background-color: #CCC;
+    padding: 2px 0px;
+    position: absolute;
+    z-index: 100;
+}
+
+#menu li {
+    position: relative;
+}
+
+.sub-menu {
+    display: none;
+    position: absolute;
+}
+
+#menu li:hover .sub-menu {
+    display: block;
+}
+
+header div#menu > div {
+    float: right;
+    padding-left: 10px;
+    margin-right: 5px;
+    /*margin-top: 5px;*/
+    height: 34px;
+    width: 285px;
+    border: 0.5 solid#3CC;
+    border-radius: 5px;
+}
+
+
+.sub-menu li {
+    margin-left: 0 !important;
+}
+
+#menu ul li:hover a {
+    border-bottom: 5px solid#6F0
+}
+
+
+
+.tk:hover {
+    cursor: pointer;
+}

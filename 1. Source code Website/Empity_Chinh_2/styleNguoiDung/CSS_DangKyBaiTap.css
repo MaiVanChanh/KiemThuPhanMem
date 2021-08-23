@@ -1,0 +1,48 @@
+﻿.than {
+    
+    width: 1200px;
+    padding: 30px;
+    margin-left: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+table tr,td{
+
+    padding:10px 30px;
+}
+u{
+    color:#94082b;
+}
+td {
+    font-size: 22px;
+    width:400px;
+}
+.phuanh {
+    padding: 10px;
+    border: 2px solid#808080;
+}
+.anhbaitap {
+    
+    height: 370px;
+    width: 370px;
+}
+.dky {
+    height: 120px;
+    border: 2px solid#ff6a00;
+}
+.modal-header {
+    text-align:center;
+   
+    background-color:antiquewhite;
+}
+.modal-title {
+    
+    margin-left:110px;
+    color:#0f5c09;
+}
+.modal-footer {
+    background-color:azure;
+    
+}
+.cuoicung{
+    margin-top:20px;
+}

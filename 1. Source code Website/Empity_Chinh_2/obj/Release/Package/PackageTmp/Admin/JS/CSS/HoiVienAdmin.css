@@ -1,0 +1,15 @@
+﻿
+.btnHV {
+    border-radius: 5px;
+    background-color: #F1D5D5;
+}
+table tr td{
+    padding: 10px 5px;
+}
+.dr{
+	width: 100px;
+	height: 30px;
+}
+th {
+	text-align: center
+}

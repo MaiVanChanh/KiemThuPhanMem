@@ -1,0 +1,203 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nd_KH {
+    height: 800px;
+    margin: 0px 70px;
+    width: 1200px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+section, aside {
+    display: table-cell;
+    vertical-align: top;
+}
+
+section {
+    float: left;
+    width: 800px;
+    padding: 30px;
+}
+
+aside {
+    height: 620px;
+    width: 600px;
+}
+
+fieldset {
+    font-size: 15px;
+    width: 600px;
+    margin: 10px 50px;
+    padding: 20px;
+}
+
+table {
+    margin-left: 30px;
+}
+
+table, tr, td {
+    font-size: 18px;
+    padding: 5px;
+    text-align: left;
+}
+
+.ten_kh {
+    margin-left: 40px;
+    font-size:25px;
+    text-align: center;
+}
+
+.TTCB {
+    font-size: 20px;
+}
+.anh_NGuoiDung {
+    width:175px;
+    background-color:aliceblue;
+}
+.nut_lenh_anh {
+    padding:5px 0px;
+   font-weight:bold;
+    text-align: center;
+}
+.btn btn-outline-warning {
+    margin-top: 100px;
+
+}
+.btn btn-outline-warning1 {
+    width:20px;
+}
+.dr_Ns {
+    height: 10px;
+}
+/*anh tk va cay but*/
+.anh_tk {
+    padding:10px;
+    border: 2px solid#ff6a00;
+    width: 200px;
+    height: 263px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -300px;
+}
+
+.anh_cay_but {
+    margin-top: 50px;
+    margin-left: 550px;
+    position: absolute;
+}
+/*right*/
+.ban_thich {
+    
+    text-align: center;
+    font-size: 18px;
+    height: 30px;
+    width: 130px;
+    background-color: black;
+    color: azure;
+}
+
+.gc_thich {
+    margin-top:-17px;
+    border: 1px solid#000000;
+}
+
+.khuyen_dung {
+    text-align: center;
+    font-size: 18px;
+    height: 30px;
+    margin-top:30px;
+    width: 130px;
+    background-color: black;
+    color: azure;
+}
+
+.ah_khuyen_dung {
+    padding: 15px;
+}
+
+
+/*ket thuc right*/
+.lk_trang {
+    margin-left: 20px;
+}
+/*phần post ảnh*/
+.overlay {
+    height: 0%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-y: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+    .overlay a:hover, .overlay a:focus {
+        color: #f1f1f1;
+    }
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+    .overlay {
+        overflow-y: auto;
+    }
+
+        .overlay a {
+            font-size: 20px
+        }
+
+        .overlay .closebtn {
+            font-size: 40px;
+            top: 15px;
+            right: 35px;
+        }
+}
+/*kết thúc post ảnh*/
+h3{
+    font-size:17px;
+}
+.anh_tk1{
+    border:2px solid#fb0404;
+    margin-left:400px;
+    height:300px;
+    width:200px;
+    padding:10px;
+}
+.nutlenhcuoi{
+    margin-left:450px;
+    margin-top:100px;
+    position:absolute;
+}
+.btn btn-outline-danger{
+    font-weight:bold;
+}
+.btn btn-outline-success{
+    font-weight:bold;
+}

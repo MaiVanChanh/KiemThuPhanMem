@@ -1,0 +1,136 @@
+﻿.thuphambusung{
+    
+    width:1344px;
+}
+.navbar{
+    width:1200px;
+}
+.serch {
+    padding: 10px;
+    margin-left: 100px;
+    width: 1200px;
+}
+
+h3 {
+    padding:8px;
+    background: #fbae40;
+    width:320px;
+    font-size:22px;
+    height:41px;
+    color:white;
+}
+.bagach{
+    margin-top:-10px;
+}
+.cbDanhMuc {
+    border: 2px solid#000000;
+    margin-top:-196px;
+    margin-left:-180px;
+    position:absolute;
+    width:90px;
+    border-top-left-radius:7px;
+    border-bottom-left-radius:7px;
+    
+    height: 40px;
+    top: 147px;
+    left: 110px;
+}
+.cl{
+    text-align:center;
+    margin-left:400px;
+    position:absolute;
+}
+.TxtTimSanPham {
+    margin-top: -49px;
+    position: absolute;
+    margin-left:21px;
+    height: 40px;
+    width:500px;
+    border-top-right-radius:7px;
+    border-bottom-right-radius:7px;
+    
+}
+.btntim {
+    position:absolute;
+    margin-top: -47px;
+  
+    margin-left:470px;
+    height:36px;
+    width:45px;
+    border-radius:20px;
+    border:2px  solid#ffffff;
+    background-image:url('../image_nguoidung/AnhChucNang/tim_kiem2.png');
+   
+}
+/*thuc phẩm*/
+.listThucPham {  
+    width: 1344px;
+    padding:20px 50px;
+}
+/*trong iteml*/
+.anh_chon_mua {
+    cursor: pointer;
+    margin-top: 5px;
+    height: 50px;
+    width: 130px;
+}
+
+.ds_MH {
+    margin-left: 30px;
+}
+.tenSP{
+    
+}
+.giaSP{
+    color:red;
+}
+.anh_chonmua {
+    cursor: pointer;
+}
+
+.sl_CSDL {
+    color: #ff0000;
+}
+/*thử nghiệm*/
+#navbar {
+    overflow: hidden;
+    background-color: white;
+}
+
+    #navbar a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        #navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        #navbar a.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+    .sticky + .content {
+        padding-top: 60px;
+    }
+.phantest{
+    text-align:center;
+    border:2px solid#000000;
+    height:100px;
+    width:400px;
+}

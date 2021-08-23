@@ -1,0 +1,170 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Quantri.master.cs" Inherits="Empity_Chinh_2.Quantri" %>
+<%@ Import namespace =" System.Data"  %>
+
+<%@ Import namespace =" System.Data.SqlClient"  %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+	<link href="Admin/TongAdmin/CSs/bootstrap.min.css" rel="stylesheet" />
+	<link href="Admin/TongAdmin/CSs/metisMenu.min.css" rel="stylesheet" />
+	<link href="Admin/TongAdmin/CSs/startmin.css" rel="stylesheet" />
+    
+	<link href="Admin/TongAdmin/CSs/morris.css" rel="stylesheet" />
+	<link href="Admin/TongAdmin/CSs/all.min.css" rel="stylesheet" />
+	<link href="Admin/TongAdmin/CSs/timeline.css" rel="stylesheet" />
+	
+    <link href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" rel="stylesheet" />
+</head>
+<body>
+    <link href="Admin/TongAdmin/CSs/ThongThe.css" rel="stylesheet" />
+	<script src="Admin/TongAdmin/javaScrips/jquery.min.js"></script>
+	<script src="Admin/TongAdmin/javaScrips/bootstrap.min.js"></script>
+	<script src="Admin/TongAdmin/javaScrips/metisMenu.min.js"></script>
+	<script src="Admin/TongAdmin/javaScrips/startmin.js"></script>
+    <form id="form1" runat="server">
+        <div>
+			<header>
+			<div id="wrapper">
+
+                <!-- Navigation -->
+                <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#">Chào mừng nạn đến với quản trị</a>
+                    </div>
+
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    <!-- Top Navigation: Left Menu -->
+                    <ul class="nav navbar-nav navbar-left navbar-top-links">
+                        <li><a href="#"><i class="fa fa-home fa-fw"></i> Trang chủ</a></li>
+                    </ul>
+
+                    <!-- Top Navigation: Right Menu -->
+                    <ul class="nav navbar-right navbar-top-links">
+                        <li class="dropdown navbar-inverse">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                <i class="fa fa-bell fa-fw"></i> <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu dropdown-alerts">
+                                <li>
+                                    <a href="#">
+                                        <div>
+                                            <i class="fa fa-comment fa-fw"></i> New Comment
+                                            <span class="pull-right text-muted small">4 minutes ago</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a class="text-center" href="#">
+                                        <strong>See All Alerts</strong>
+                                        <i class="fa fa-angle-right"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                <i class="fa fa-user fa-fw"></i><asp:Label ID="txtKinhChao" runat="server" Text="Chào : ">
+                                    <asp:Label ID="txtChaoTaiKhoan" runat="server" Text=""></asp:Label></asp:Label> <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu dropdown-user">
+                                <li> 
+                                  
+                                    <a href="#" ><i class="fa fa-user fa-fw"></i><asp:Button ID="btnThongTin" runat="server" Text="Thông tin" OnClick="btnThongTin_Click" CssClass="btn btn-link" /> </a>
+                                </li>
+                                
+                                <li class="divider"></li>
+                                <li>
+                                    <a href="#"><i class="fa fa-user fa-fw"></i> <asp:Button ID="btnDX"  runat="server" Text="Đăng xuất" OnClick="btnDX_Click" CssClass="btn btn-link" /></a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+					 <!-- Sidebar -->
+                    <div class="navbar-default sidebar" role="navigation">
+                        <div class="sidebar-nav navbar-collapse">
+
+                            <ul class="nav" id="side-menu">
+                                <li class="sidebar-search">
+                                    <div class="input-group custom-search-form">
+                                        <input type="text" class="form-control" placeholder="Search...">
+                                            <span class="input-group-btn">
+                                                <button class="btn btn-primary" type="button">
+                                                    <i class="fa fa-search"></i>
+                                                </button>
+                                            </span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="../Admin/HoiVien.aspx" class="active"><i class="fa fa-user" aria-hidden="true"></i>  Hội Viên</a>
+                                </li>
+                                <li>
+                                    <a href="../Admin/NhanVien.aspx"><i class="far fa-address-book"></i>  Nhân Viên</a>
+               
+                                </li>
+								<li>
+									<a href="../Admin/ThucPhamBoSung.aspx"><i class="fas fa-utensils"></i>  Đồ Ăn Nước Uống</a>
+								</li>
+								<li>
+									<a href="../Admin/Doanhthu.aspx"><i class="fas fa-dollar-sign"></i>  Doanh Thu </a>
+								</li>
+								<li>
+									<a href="../Admin/DSBT.aspx"><i class="fa fa-list-ol" aria-hidden="true"></i>  Danh sách Bài Tập</a>
+								</li>
+								<li>
+									<a href="../Admin/ThietBi.aspx"><i class="fas fa-tools"></i> Thiết bị</a>
+								</li>
+                                <li>
+                                    <a href="../Admin/ThongTinLienHe.aspx"><i class="fas fa-tools"></i> Liên hệ</a>
+								
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </nav>
+				 <!-- Page Content -->
+                <div id="page-wrapper">
+                    <%--<div class="container-fluid">
+
+                        <div class="row">
+                            <div class="col-lg-12">--%>
+								 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+								 
+							</div>
+							<div>
+								<asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+								 </asp:ContentPlaceHolder>
+								
+					<%--			
+							</div>
+                        </div>
+
+                      
+                    </div>--%>
+                </div>
+
+            </div>
+
+		</header>
+			<%--/--%>
+           
+			<%--  --%>
+			<asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+								</asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

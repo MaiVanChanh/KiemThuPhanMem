@@ -1,0 +1,101 @@
+﻿.than {
+    font-family: Comic Sans MS, cursive, sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display: table-row;
+
+}
+.txtTimKiemTB{
+    height:25px;
+}
+.btnTimKiemTB{
+    margin-right: -50px;
+  
+}
+.DanhSachTB {
+    font-weight: bold; 
+    text-align: center;
+    text-decoration-line: underline;
+}
+aside, section {
+    display: table-cell;
+    vertical-align: top;
+}
+article {
+    display: table-row;
+}
+
+section {
+
+    width: 900px;
+}
+aside {
+    border: 2px solid#000;
+    height:700px;
+
+    width:250px;
+}
+.timkiem {
+    text-decoration-line: underline;
+    background-color: #f1d5d5;
+    padding: 10px 10px;
+    text-align: center;
+    border: 1px solid #f14f4f
+}
+.timkiemMaTB {
+    text-decoration-line: underline;
+    padding: 10px 10px;
+    background-color: #f1d5d5;
+    text-align: center;
+    margin-top:10px;
+    border: 1px solid #f14f4f;
+
+
+}
+.grTB {
+    margin-top:280px;
+
+    margin-left: 10px;
+
+}
+.btnTimKiemTB{
+    margin-top:5px;
+    border-radius: 10px;
+    margin-right:0px;
+ 
+}
+.sua {
+    display: table-cell;
+    vertical-align: top;
+    float:left;
+    margin-left: 10px;
+}
+.tbThem tr {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 10px 5px;
+    height: 54px;
+    width: 202px;
+}
+.dongia{
+    padding: 5px 5px;
+    margin-right:100px;
+}
+.btnLuuMoi{
+    border-radius:5px;
+}
+.sua_1 {
+    border-radius: 5px;
+
+}
+.btnsua{
+    border: 1px solid #000;
+}
+.formLeft{
+    padding: 0px 10px; 
+    width: 800px;
+}
+.tbSua tr td{
+    padding: 5px 10px;
+}

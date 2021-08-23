@@ -1,0 +1,16 @@
+﻿table tr td{
+    padding: 10px 5px;
+}
+.txt{
+    border-radius:5px;
+	padding: 30px 5px;
+	font-weight:bold;
+	
+}
+.txtTongDoanhThu{
+    text-align:left;
+}
+.dxtcLite dxtcSys dxtc-flex dxtc-top dxtc-pc
+{
+	width:	900px;
+}
